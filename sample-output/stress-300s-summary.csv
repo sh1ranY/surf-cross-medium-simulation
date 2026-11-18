@@ -1,0 +1,4 @@
+source,generated,gateway_rx,gcs_rx,pdr_pct,goodput_bps,mean_e2e_ms,p95_e2e_ms
+UUV1,987,0,0,0.0000,0.0000,,
+UUV2,987,0,0,0.0000,0.0000,,
+UAV,986,986,986,100.0000,1682.7733,0.2352,0.1997
